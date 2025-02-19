@@ -18,6 +18,11 @@ public class Main {
         System.out.println("Multipliacion");
         System.out.println("Division");
 
+        System.out.println("DDL");
+        System.out.println("DML");
+        System.out.println("TCL");
+        System.out.println("Comandos Bases de datos");
+
 
 
     }
